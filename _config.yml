@@ -1,14 +1,12 @@
 # Site Info
 title:              "ABCN"
 description:        "当我们回首往事的时候，不因虚度年华而悔恨，也不因碌碌无为而羞愧。"
-google_verify:      epFgX0s_0RM3CdjwFcsewfXzPov2g8s9ZBOLyaIUH-o # Put your Google Verification here
-google_analytics:   UA-XXXXXXX-X # Put your Google Analytics code
 
 # Author Info
-author_name:        "abcn"
+author_name:        "ABCN"
 author_email:       abcjinbao@163.com
-author_gravatar:    880e4a95898bdf79867e1d8dc4c75996 # Your Gravatar md5 hash here for logo
-github_username:    xinjinbao # Your GitHub username here
+author_gravatar:    880e4a95898bdf79867e1d8dc4c75996
+github_username:    xinjinbao
 
 # Site Settings
 baseurl:            "" # Base URL must end WITHOUT a slash, default: ""
